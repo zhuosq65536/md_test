@@ -1,4 +1,4 @@
-# <centert>AQCV GUI</center>
+# AQCV GUI
 
 ## 开始
 
@@ -18,7 +18,11 @@ cmake大于3.19
 
 ## 系统环境变量
 
-变量名 ：CMAKE_PREFIX_PATH
+变量名 ：
+
+```
+CMAKE_PREFIX_PATH
+```
 
 变量值：D:\ProgramData\QT\5.15.2\msvc2019_64\lib\cmake(替换为你本地的)
 
