@@ -25,7 +25,7 @@ cmake>3.19
 ```
 变量名 ：CMAKE_PREFIX_PATH
 
-变量值：D:\ProgramData\QT\5.15.2\msvc2019_64\lib\cmake(替换为你本地的
+变量值：D:\ProgramData\QT\5.15.2\msvc2019_64\lib\cmake(替换为你本地的）
 ```
 
 目的是让程序可以找到在该路径下的Qt5文件夹下的Qt5Config.cmake文件。
@@ -33,7 +33,7 @@ cmake>3.19
 ```
 变量名 ：QT_PLUGIN_PATH
 
-变量值：D:\ProgramData\QT\5.15.2\msvc2019_64\plugins(替换为你本地的)
+变量值 ：D:\ProgramData\QT\5.15.2\msvc2019_64\plugins(替换为你本地的)
 ```
 
 目的是让程序可以找到在该路径下的platforms文件夹下的qwindows.dll文件。
